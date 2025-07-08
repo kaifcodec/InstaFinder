@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://placehold.co/800x250/3498db/ecf0f1?font=Montserrat&text=InstaFinder%0AUncover+Connections" alt="InstaFinder Banner - Modern Design">
+  <img src="https://placehold.co/800x250/3498db/ecf0f1?font=Montserrat&text=InstaFinder%0AFind+Anyone's+Instagram+ID" alt="InstaFinder Banner - Modern Design">
 </p>
 
-# 🔍 InstaFinder: Uncover Hidden Connections in Instagram's Network
+# 🔍 InstaFinder: Finds Anyone's Instagram ID just by knowing their close ones
 
 **InstaFinder** is a sophisticated and highly modular Python tool designed to explore and discover specific profiles within Instagram's "suggested user" chains. Ever wondered who someone might know, or wanted to find profiles related to certain keywords through a network of connections? This tool helps you do just that, by recursively traversing suggested user lists and identifying matches based on your specified keywords.
 
@@ -43,10 +43,9 @@ Follow these steps to get InstaFinder up and running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/InstaFinder.git](https://github.com/YOUR_USERNAME/InstaFinder.git)
+    git clone https://github.com/kaifcodec/InstaFinder.git
     cd InstaFinder
     ```
-    *(Replace `YOUR_USERNAME` with your actual GitHub username if you fork it)*
 
 2.  **Create and activate a virtual environment (recommended):**
     ```bash
@@ -62,7 +61,12 @@ Follow these steps to get InstaFinder up and running on your local machine.
     ```bash
     pip install -r requirements.txt
     ```
+4.  **Configuration**
+    Edit the `config.py` file as required to increase the MAX_RECURSION field (default=1)
 
+    - If you think target could be close to user then default value of 1 is recommended or else use 2, 3 or more
+    - The higher the value of MAX_RECURSION greater time it will work and could waste time to find inside unknown person's suggestions who might be far in relationship with the target.
+      
 ### `headers.json` Setup (Crucial!)
 
 This tool requires valid Instagram API headers to function. These headers contain authentication tokens and other necessary information to make requests look legitimate.
