@@ -65,7 +65,7 @@ This tool requires valid Instagram API headers to function. These headers contai
         ```json
         {
             "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Mobile Safari/537.36",
-            "Accept-Encoding": "gzip, deflate, br",
+            "Accept-Encoding": "gzip", # case sensitive must not be changed
             "x-ig-app-locale": "en_US",
             "x-ig-device-locale": "en_US",
             "x-ig-mapped-locale": "en_US",
