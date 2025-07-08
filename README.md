@@ -7,6 +7,17 @@
 **InstaFinder** is a sophisticated and highly modular Python tool designed to explore and discover specific profiles within Instagram's "suggested user" chains. Ever wondered who someone might know, or wanted to find profiles related to certain keywords through a network of connections? This tool helps you do just that, by recursively traversing suggested user lists and identifying matches based on your specified keywords.
 
 ---
+## 🔒 License
+
+This project is under a **Personal Use Only License**.
+
+- ✅ You may use and modify it **privately** for yourself.
+- ❌ You may NOT host it as a public or private service.
+- ❌ You may NOT re-upload, fork, or redistribute this code.
+- ❌ You may NOT use it in any commercial or monetized way.
+
+- Want to collaborate or get special permissions? Contact me directly kaifcodec@gmail.com
+---
 
 ## ✨ Features
 
