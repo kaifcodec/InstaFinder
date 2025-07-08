@@ -2,22 +2,32 @@ PERSONAL USE ONLY LICENSE
 
 Copyright (c) 2025 Kaif
 
-This software is licensed for PERSONAL USE ONLY. By accessing or using this software, you agree to the following terms:
+This software is licensed for PERSONAL USE ONLY. By accessing, downloading, or using this software, you agree to the following terms:
 
-1. **PERMITTED USE**
-   - You may use, modify, and run the software **for your own personal, non-commercial use only**.
+1. PERMITTED USE
+You are allowed to:
+- Use this software for personal, non-commercial purposes.
+- Modify the software for your own private use.
 
-2. **RESTRICTIONS**
-   - You may NOT use this software, or any modified version of it, to host a public service, whether free or paid.
-   - You may NOT distribute, sublicense, publish, or share the software or any derivative work.
-   - You may NOT use this software for any commercial purpose, including SaaS platforms, client projects, or monetized tools.
-   - You may NOT remove or alter this license from any copy of the software.
+2. RESTRICTIONS
+You are NOT allowed to:
+- Use this software, or any modified version, to host any public or private service (including websites, APIs, or applications).
+- Distribute, share, publish, or re-upload this software or any part of it.
+- Fork this repository publicly on any platform without explicit permission.
+- Use this software or its components for any commercial purpose, including as part of a product, service, or monetized platform.
+- Remove or alter this license notice from the software files.
 
-3. **DISCLAIMER**
-   - The software is provided "AS IS", without warranty of any kind.
-   - The author shall not be liable for any damages arising in any way out of the use of this software.
+3. DISCLAIMER
+This software is provided "AS IS", without warranty of any kind, express or implied. The author is not liable for any damages, losses, or issues arising from the use of this software.
 
-If you wish to use this project beyond personal purposes, contact the author for permission.
+4. PERMISSION
+If you wish to:
+- Collaborate publicly
+- Use the software beyond personal/private use
+- Host it as a service
+- Contribute to development
 
-Author: Kaif
+...you must contact the author (Kaif) and obtain explicit permission.
+
+Author: Kaif  
 Year: 2025
