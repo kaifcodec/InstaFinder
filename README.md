@@ -111,7 +111,6 @@ This tool requires valid Instagram API headers to function. These headers contai
             "x-fb-http-engine": "Liger",
             "x-fb-client-ip": "your_client_ip",
             "x-fb-server-cluster": "your_server_cluster",
-            "Cookie": "your_instagram_cookies_here"
         }
         ```
     * **Keep your `headers.json` file private and do NOT commit it to public repositories!** It contains sensitive session information. Add `headers.json` to your `.gitignore`.
