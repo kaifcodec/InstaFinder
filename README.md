@@ -113,7 +113,6 @@ This tool requires valid Instagram API headers to function. These headers contai
             "x-fb-server-cluster": "your_server_cluster",
         }
         ```
-    * **Keep your `headers.json` file private and do NOT commit it to public repositories!** It contains sensitive session information. Add `headers.json` to your `.gitignore`.
 
 ### Running the Tool
 
