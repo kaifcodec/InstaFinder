@@ -1,6 +1,6 @@
 {
     "User-Agent": "",
-    "Accept-Encoding": "",
+    "Accept-Encoding": "gzip",
     "x-ig-app-locale": "",
     "x-ig-device-locale": "",
     "x-ig-mapped-locale": "",
